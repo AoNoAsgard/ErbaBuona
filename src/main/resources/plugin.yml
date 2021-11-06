@@ -1,0 +1,7 @@
+name: ErbaBuona
+version: '${project.version}'
+main: it.aonoasgard.erbabuona.ErbaBuona
+api-version: 1.17
+authors: [ AoNoAsgard ]
+description: l'erba è buona
+website: AoNoAsgard.it
